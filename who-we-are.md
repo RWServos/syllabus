@@ -61,3 +61,10 @@ Hello everyone in hist3907-2015!
 I have great confidence in the potential of learning how to use and create on GitHub!
 With that said, here's my [HeadQuarter] (https://github.com/Savith)
 Open Notebook will be [here] (https://github.com/Savith/hist3907b-repository)
+
+### Ryan Servos
+
+* My Online HQ is tentatively located [here](https://github.com/RWServos/HistoryHQ).
+* My Research Notebook is located [here](https://github.com/RWServos/RWSResearchNotebook).
+
+
